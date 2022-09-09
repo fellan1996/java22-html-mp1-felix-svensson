@@ -4,6 +4,7 @@ h1, h2 {
 }
 p {
     font-family: 'Courier New', Courier, monospace;
+    width: 700px;
 }
 a:hover {
     background-color: blueviolet;
@@ -13,4 +14,7 @@ a.internal {
 }
 .FirstElement {
     padding-top: 100px;
+}
+form {
+    width: 750px;
 }
